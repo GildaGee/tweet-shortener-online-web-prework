@@ -19,4 +19,7 @@ def word_substituter(tweet)
       word = dictionary[word]
     else
       word
-      
+    end
+  end.join(' ')
+end
+  
