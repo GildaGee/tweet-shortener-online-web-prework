@@ -1,2 +1,4 @@
 def dictionary
-  dictionary = 
+  dictionary = {
+    "hello" => "hi"
+  }
